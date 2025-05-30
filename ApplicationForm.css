@@ -1,0 +1,13 @@
+.container
+{
+    display:flexbox;
+    flex-direction:column;
+    justify-content:start;
+    align-items:center;
+    height:100vh;
+    width:100%;
+    background-color:cadetblue;
+}
+body{
+    background-color:darkslategray;
+}
